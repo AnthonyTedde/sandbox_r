@@ -1,3 +1,12 @@
+# ------------------------------------------------------------------------------
+# Functions come from:
+#
+# Dunn, Peter K., and Gordon K. Smyth. “Chapter 4: Beyond Linear Regression: 
+# The Method of Maximum Likelihood.” In Generalized Linear Models With Examples 
+# in R, edited by Peter K. Dunn and Gordon K. Smyth, 165–209. 
+# Springer Texts in Statistics. New York, NY: Springer, 2018. 
+# https://doi.org/10.1007/978-1-4419-0118-7_4.
+# ------------------------------------------------------------------------------
 data("quilpie", package = "GLMsData")
 
 # Global ####
